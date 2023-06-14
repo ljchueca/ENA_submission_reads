@@ -5,8 +5,8 @@
 #
 # Find a common pattern for all reads directories (at the beginning, if not check the first part of the loop). Should be the same used in ENA_submission_list.sh
 #
-# usage:    ./ENA_save_accessions_numbers.sh  pattern
-# e.g.:     ./ENA_save_accessions_numbers.sh  C18
+# usage:    ./ENA_save_accession_numbers.sh  pattern
+# e.g.:     ./ENA_save_accession_numbers.sh  C18
 
 echo -e "Alias\tExperiment\tRun" > accession_numbers_ENA.txt
 
