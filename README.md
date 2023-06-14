@@ -86,3 +86,19 @@ Neccesary tools
   ```
   
 * 3.3) `ENA_save_accession_numbers.sh` Extract and save the *EXPERIMENT* and *RUN* accession numbers assigned after submission, together with their corresponding sample names.
+ <details><summary>EXAMPLE</summary>
+  <p>
+    
+  ```
+  Alias           Experiment              Run
+  C18_019_3       ERX10957573             ERR11553340
+  C18_019_4       ERX10957565             ERR11553332
+  C18_079_3       ERX10957545             ERR11553312
+  C18_080_1       ERX10957562             ERR11553329
+  C18_093_3       ERX10957548             ERR11553315
+  C18_093_4       ERX10957570             ERR11553337
+  C18_095_5       ERX10957553             ERR11553320
+  C18_102_3       ERX10957557             ERR11553324
+  C18_102_4       ERX10957556             ERR11553323
+  C18_103_1       ERX10957566             ERR11553333 
+  ```
