@@ -86,7 +86,7 @@ Neccesary tools
   ```
   
 * 3.3) `ENA_save_accession_numbers.sh` Extract and save the *EXPERIMENT* and *RUN* accession numbers assigned after submission, together with their corresponding sample names.
- <details><summary>EXAMPLE</summary>
+  <details><summary>EXAMPLE</summary>
   <p>
     
   ```
