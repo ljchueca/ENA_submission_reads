@@ -50,7 +50,7 @@ Neccesary tools
 
   module load java/1.8.0_221
 
-  java -Xms4G -jar /cluster/home/s_lchueca/programs/webin-cli-6.5.0.jar \
+  java -Xms4G -jar /home/user/programs/webin-cli-6.5.0.jar \
    -context=reads \
    -manifest=C18_133_1_manifest.txt \
    -username="Webin-USER-number" \
